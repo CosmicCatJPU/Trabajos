@@ -1,0 +1,14 @@
+GUI\VentanaAlmacen.class
+GUI\VentanaProductos$1Agregar$CierreModal.class
+GUI\Ventana$1EscuchaBotonProducto.class
+Logica\Almacen.class
+com\mycompany\gestorproductos\GestorProductos$1.class
+com\mycompany\gestorproductos\GestorProductos.class
+GUI\Ventana.class
+GUI\VentanaAlmacen$1.class
+GUI\VentanaProductos.class
+GUI\Ventana$1EscuchaBotonAlmacen.class
+GUI\VentanaProductos$1.class
+Logica\Producto.class
+GUI\VentanaProductos$1Agregar.class
+GUI\VentanaAlmacen$2.class
